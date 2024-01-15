@@ -35,6 +35,6 @@ git clone https://github.com/your-username/anime-app.git
 
 
 
-# Codeing challenge
+# Coding challenge
 
 I have done coding in C++ for the given questions.
